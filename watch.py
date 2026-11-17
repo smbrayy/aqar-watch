@@ -26,8 +26,6 @@ CITY = "الجبيل"  # Jubail (Aqar's own spelling)
 SEARCHES = [
     ("Apartment for rent", "شقق-للإيجار"),
     ("Villa for rent",     "فلل-للإيجار"),
-    ("Apartment for sale", "شقق-للبيع"),
-    ("Villa for sale",     "فلل-للبيع"),
 ]
 
 MISSES_BEFORE_CHECK = 2   # a listing must be missing from this many runs in a row before we verify it's gone
