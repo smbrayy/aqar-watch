@@ -1,5 +1,5 @@
 {
- "fail_streak": 2,
+ "fail_streak": 0,
  "gone": {
   "6902419": {
    "t": 1795196600.4524488,
@@ -8,6 +8,10 @@
   "6931511": {
    "t": 1795217082.497326,
    "title": "شارع طريق الدمام حي الحجاز مدينة مدينه الجبيل الصناعيه المنطقة الشرقية"
+  },
+  "6944834": {
+   "t": 1795265317.7331655,
+   "title": "شارع شـارع علي بن العباس حي طيبة مدينة الجبيل المنطقة الشرقية"
   }
  },
  "listings": {
@@ -16,7 +20,7 @@
    "area": "36 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/032359686_1731760348224.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "1,580 SAR سنوي",
    "rooms": [
     "1 bedrooms",
@@ -80,7 +84,7 @@
    "area": "600 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/026657515_1772096128428.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "2,000 SAR سنوي",
    "rooms": [
     "1 bedrooms",
@@ -130,7 +134,7 @@
    "area": "500 m²",
    "first_seen": 1795196600.4524488,
    "image": "https://images.aqar.fm/webp/750x0/props/001261478_1735762458663.jpg",
-   "misses": 0,
+   "misses": 1,
    "price": "20,400 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -183,7 +187,7 @@
   },
   "6685179": {
    "first_seen": 1795036498.937734,
-   "misses": 2,
+   "misses": 3,
    "search": "Apartment for rent",
    "title": "طريق الملك عبدالعزيز حي مخطط الدخل المحدود الجبيل الجبيل",
    "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/طريق-الملك-عبدالعزيز-حي-مخطط-الدخل-المحدود-الجبيل-الجبيل-6685179"
@@ -217,7 +221,7 @@
    "area": "400 m²",
    "first_seen": 1795196600.4524488,
    "image": "https://images.aqar.fm/webp/750x0/props/006288392_1780586995500.jpg",
-   "misses": 0,
+   "misses": 1,
    "price": "3,700 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -335,7 +339,7 @@
    "area": "480 m²",
    "first_seen": 1795115531.377449,
    "image": "https://images.aqar.fm/webp/750x0/props/villa-default.png",
-   "misses": 1,
+   "misses": 0,
    "price": "2,600 SAR سنوي",
    "rooms": [
     "1 bedrooms",
@@ -434,7 +438,7 @@
    "area": "70 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/012879564_1787643240871.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "25,000 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -451,7 +455,7 @@
    "area": "70 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/012879569_1787643208918.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "26,000 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -545,7 +549,7 @@
    "area": "120 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/003158795_1787890533083.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "18,000 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -690,7 +694,7 @@
    "area": "407 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/051436754_1789238094809.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "36,000 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -849,7 +853,7 @@
    "area": "62 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/017020787_1776047570899.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "18,000 SAR سنوي",
    "rooms": [
     "2 bedrooms"
@@ -864,7 +868,7 @@
    "area": "110 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/017020787_1776047045580.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "2,500 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -892,7 +896,7 @@
   },
   "6883168": {
    "first_seen": 1795036498.937734,
-   "misses": 3,
+   "misses": 4,
    "search": "Villa for rent",
    "title": "شارع اشبيليه 159 حي إشبيلية مدينة الجبيل المنطقة الشرقية",
    "url": "https://sa.aqar.fm/فلل-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-اشبيليه-159-حي-إشبيلية-مدينة-الجبيل-المنطقة-الشرقية-6883168"
@@ -917,7 +921,7 @@
    "area": "54 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/017020784_1789928521398.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "12,000 SAR سنوي",
    "rooms": [
     "2 bedrooms"
@@ -998,7 +1002,7 @@
   },
   "6896503": {
    "first_seen": 1795036498.937734,
-   "misses": 3,
+   "misses": 4,
    "search": "Villa for rent",
    "title": "شارع اشبيليه 177 حي قرطبة مدينة الجبيل المنطقة الشرقية",
    "url": "https://sa.aqar.fm/فلل-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-اشبيليه-177-حي-قرطبة-مدينة-الجبيل-المنطقة-الشرقية-6896503"
@@ -1036,7 +1040,7 @@
    "address": "null",
    "area": "290 m²",
    "first_seen": 1795115531.377449,
-   "misses": 0,
+   "misses": 1,
    "price": "55,000 SAR سنوي",
    "rooms": [
     "7 bedrooms",
@@ -1058,7 +1062,7 @@
   },
   "6904696": {
    "first_seen": 1795036498.937734,
-   "misses": 2,
+   "misses": 3,
    "search": "Apartment for rent",
    "title": "شارع 8 حي طيبة الجبيل الجبيل",
    "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-8-حي-طيبة-الجبيل-الجبيل-6904696"
@@ -1124,7 +1128,7 @@
    "area": "208 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/003497859_1792912442842.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "32,000 SAR سنوي",
    "rooms": [
     "7 bedrooms"
@@ -1136,7 +1140,7 @@
   },
   "6912176": {
    "first_seen": 1795036498.937734,
-   "misses": 2,
+   "misses": 3,
    "search": "Apartment for rent",
    "title": "شارع ابو بكر الصديق الفرعي حي طيبة مدينة الجبيل المنطقة الشرقية",
    "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-ابو-بكر-الصديق-الفرعي-حي-طيبة-مدينة-الجبيل-المنطقة-الشرقية-6912176"
@@ -1154,7 +1158,7 @@
    "area": "200 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/003158798_1791811999123.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "25,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1178,7 +1182,7 @@
    "area": "200 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/003158799_1791987134169.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "26,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1210,7 +1214,7 @@
    "area": "153 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/016341855_1792217830475.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "50,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1290,7 +1294,7 @@
    "area": "600 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/051582904_1792702471244.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "23,200 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -1320,7 +1324,7 @@
   },
   "6935573": {
    "first_seen": 1795036498.937734,
-   "misses": 2,
+   "misses": 3,
    "search": "Apartment for rent",
    "title": "شارع ابو بكر الصديق الفرعي حي طيبة مدينة الجبيل المنطقة الشرقية",
    "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-ابو-بكر-الصديق-الفرعي-حي-طيبة-مدينة-الجبيل-المنطقة-الشرقية-6935573"
@@ -1347,7 +1351,7 @@
    "area": "210 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/050024997_1793555914788.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "30,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1364,7 +1368,7 @@
    "area": "121 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/004157793_1793104679551.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "41,400 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -1401,7 +1405,7 @@
   },
   "6942381": {
    "first_seen": 1795036498.937734,
-   "misses": 3,
+   "misses": 4,
    "search": "Villa for rent",
    "title": "شارع كعب بن مالك حي الحمراء مدينة الجبيل المنطقة الشرقية",
    "url": "https://sa.aqar.fm/فلل-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-كعب-بن-مالك-حي-الحمراء-مدينة-الجبيل-المنطقة-الشرقية-6942381"
@@ -1419,7 +1423,7 @@
    "area": "170 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/040350231_1794849230717.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "18,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1433,24 +1437,17 @@
   },
   "6944699": {
    "first_seen": 1795036498.937734,
-   "misses": 2,
+   "misses": 3,
    "search": "Apartment for rent",
    "title": "شارع اشبيليه 186 حي اشبلية الجبيل الجبيل",
    "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-اشبيليه-186-حي-اشبلية-الجبيل-الجبيل-6944699"
   },
   "6944722": {
    "first_seen": 1795036498.937734,
-   "misses": 2,
+   "misses": 3,
    "search": "Apartment for rent",
    "title": "شارع اشبيليه 186 حي اشبلية الجبيل الجبيل",
    "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-اشبيليه-186-حي-اشبلية-الجبيل-الجبيل-6944722"
-  },
-  "6944834": {
-   "first_seen": 1795036498.937734,
-   "misses": 2,
-   "search": "Apartment for rent",
-   "title": "شارع شـارع علي بن العباس حي طيبة مدينة الجبيل المنطقة الشرقية",
-   "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-شـارع-علي-بن-العباس-حي-طيبة-مدينة-الجبيل-المنطقة-الشرقية-6944834"
   },
   "6945666": {
    "address": "حي الضباب",
@@ -1474,7 +1471,7 @@
    "area": "350 m²",
    "first_seen": 1795115531.377449,
    "image": "https://images.aqar.fm/webp/750x0/props/000021766_1793750959917.jpg",
-   "misses": 1,
+   "misses": 2,
    "price": "40,000 SAR سنوي",
    "rooms": [
     "4 bedrooms"
@@ -1493,7 +1490,7 @@
   },
   "6950299": {
    "first_seen": 1795036498.937734,
-   "misses": 3,
+   "misses": 4,
    "search": "Villa for rent",
    "title": "شارع اشبيليه 138 حي إشبيلية مدينة الجبيل المنطقة الشرقية",
    "url": "https://sa.aqar.fm/فلل-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-اشبيليه-138-حي-إشبيلية-مدينة-الجبيل-المنطقة-الشرقية-6950299"
@@ -1507,21 +1504,21 @@
   },
   "6950506": {
    "first_seen": 1795036498.937734,
-   "misses": 3,
+   "misses": 4,
    "search": "Villa for rent",
    "title": "شارع 2 أ حي الحمراء الجبيل الجبيل",
    "url": "https://sa.aqar.fm/فلل-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-2-أ-حي-الحمراء-الجبيل-الجبيل-6950506"
   },
   "6951427": {
    "first_seen": 1795036498.937734,
-   "misses": 3,
+   "misses": 4,
    "search": "Villa for rent",
    "title": "شارع 2 أ حي الحمراء الجبيل الجبيل",
    "url": "https://sa.aqar.fm/فلل-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-2-أ-حي-الحمراء-الجبيل-الجبيل-6951427"
   },
   "6951439": {
    "first_seen": 1795036498.937734,
-   "misses": 3,
+   "misses": 4,
    "search": "Villa for rent",
    "title": "شارع 2 أ حي الحمراء الجبيل الجبيل",
    "url": "https://sa.aqar.fm/فلل-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-2-أ-حي-الحمراء-الجبيل-الجبيل-6951439"
@@ -1548,7 +1545,7 @@
    "area": "231 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/001641869_1793951547316.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "24,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1585,7 +1582,7 @@
   },
   "6955685": {
    "first_seen": 1795036498.937734,
-   "misses": 2,
+   "misses": 3,
    "search": "Apartment for rent",
    "title": "شارع حصين بن الحارث حي ميناء الملك فهد الصناعي الجبيل الجبيل",
    "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-مخطط-الدخل-المحدود/شارع-حصين-بن-الحارث-حي-ميناء-الملك-فهد-الصناعي-الجبيل-الجبيل-6955685"
@@ -1625,7 +1622,7 @@
    "area": "170 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/031719541_1794322927608.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "26,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1648,7 +1645,7 @@
    "area": "727 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/010474722_1794676596230.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "35,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1665,7 +1662,7 @@
    "area": "180 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/049420081_1794706828245.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "35,000 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -1689,7 +1686,7 @@
    "area": "198 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/013055783_1794752794196.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "35,000 SAR سنوي",
    "rooms": [
     "3 bedrooms",
@@ -1713,7 +1710,7 @@
    "area": "582 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/017529560_1794755950120.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "30,000 SAR سنوي",
    "rooms": [
     "1 bedrooms",
@@ -1800,7 +1797,7 @@
    "area": "647 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/010339643_1794937202001.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "30,000 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -1816,7 +1813,7 @@
    "area": "400 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/013850547_1794942413936.jpg",
-   "misses": 2,
+   "misses": 3,
    "price": "42,000 SAR سنوي",
    "rooms": [
     "1 bedrooms",
