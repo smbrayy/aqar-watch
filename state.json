@@ -409,7 +409,7 @@
    "area": "80 m²",
    "first_seen": 1795196600.4524488,
    "image": "https://images.aqar.fm/webp/750x0/props/000380249_1785496752307.jpg",
-   "misses": 1,
+   "misses": 2,
    "price": "28,000 SAR سنوي",
    "rooms": [
     "1 bedrooms",
@@ -917,7 +917,7 @@
    "area": "55 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/017020784_1776046391372.jpg",
-   "misses": 1,
+   "misses": 0,
    "price": "14,400 SAR سنوي",
    "rooms": [
     "2 bedrooms"
@@ -947,7 +947,7 @@
    "area": "110 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/017020787_1776047045580.jpg",
-   "misses": 1,
+   "misses": 0,
    "price": "2,500 SAR سنوي",
    "rooms": [
     "2 bedrooms",
@@ -1526,7 +1526,7 @@
    "area": "490 m²",
    "first_seen": 1795036498.937734,
    "image": "https://images.aqar.fm/webp/750x0/props/035283744_1793553437092.jpg",
-   "misses": 1,
+   "misses": 0,
    "price": "26,400 SAR سنوي",
    "rooms": [
     "1 bedrooms",
@@ -2104,6 +2104,21 @@
    "title": "شقة للإيجار في شارع صفوان, حي المرقاب, مدينة الجبيل, المنطقة الشرقية",
    "type": "شقق للإيجار",
    "url": "https://sa.aqar.fm/شقق-للإيجار/الجبيل/حي-الجبيل-البلد/شارع-صفوان-حي-المرقاب-مدينة-الجبيل-المنطقة-الشرقية-6980496"
+  },
+  "6981072": {
+   "address": "حي المطرفية",
+   "area": "489 m²",
+   "first_seen": 1795725124.2545142,
+   "image": "https://images.aqar.fm/webp/750x0/props/016624037_1795710472199.jpg",
+   "misses": 0,
+   "price": "66,000 SAR سنوي",
+   "rooms": [
+    "4 bedrooms"
+   ],
+   "search": "Villa for rent",
+   "title": "فيلا للإيجار في شارع طريق العاذر, حي المطرفية, مدينة مدينه الجبيل الصناعيه, المنطقة الشرقية",
+   "type": "فلل للإيجار",
+   "url": "https://sa.aqar.fm/فلل-للإيجار/الجبيل/حي-المطرفية/شارع-طريق-العاذر-حي-المطرفية-مدينة-مدينه-الجبيل-الصناعيه-المنطقة-الشرقية-6981072"
   }
  },
  "warned": false
